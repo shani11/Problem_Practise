@@ -1,0 +1,12 @@
+C:\Users\ADMIN\source\repos\Practise\Practise\bin\Debug\netcoreapp3.1\Practise.exe
+C:\Users\ADMIN\source\repos\Practise\Practise\bin\Debug\netcoreapp3.1\Practise.deps.json
+C:\Users\ADMIN\source\repos\Practise\Practise\bin\Debug\netcoreapp3.1\Practise.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Practise\Practise\bin\Debug\netcoreapp3.1\Practise.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\Practise\Practise\bin\Debug\netcoreapp3.1\Practise.dll
+C:\Users\ADMIN\source\repos\Practise\Practise\bin\Debug\netcoreapp3.1\Practise.pdb
+C:\Users\ADMIN\source\repos\Practise\Practise\obj\Debug\netcoreapp3.1\Practise.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\Practise\Practise\obj\Debug\netcoreapp3.1\Practise.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Practise\Practise\obj\Debug\netcoreapp3.1\Practise.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Practise\Practise\obj\Debug\netcoreapp3.1\Practise.dll
+C:\Users\ADMIN\source\repos\Practise\Practise\obj\Debug\netcoreapp3.1\Practise.pdb
+C:\Users\ADMIN\source\repos\Practise\Practise\obj\Debug\netcoreapp3.1\Practise.genruntimeconfig.cache

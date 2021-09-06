@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Longest Common Substring/1.0.0": {
+        "runtime": {
+          "Longest Common Substring.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Longest Common Substring/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
